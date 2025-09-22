@@ -43,8 +43,8 @@ cd ai-resume-analyzer
 
 ### 2. Run with Docker (recommended)
 
-docker-compose up --build
-Frontend: http://localhost:3000
+docker-compose up --build<br>
+Frontend: http://localhost:3000<br>
 Backend API Docs: http://localhost:8000/docs
 
 ### 3. Run in Dev Mode (optional)
@@ -108,6 +108,7 @@ Made by Akitha Chanupama
 
 
 ---
+
 
 
 
