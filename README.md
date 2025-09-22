@@ -78,13 +78,13 @@ View:
  
 
 ai-resume-analyzer/<br>
-├─ backend/              # FastAPI backend<br>
+├─ backend/                # FastAPI backend<br>
 │  ├─ app/<br>
 │  │  ├─ main.py<br>
 │  │  ├─ model.py<br>
 │  │  └─ utils.py<br>
 │  └─ Dockerfile<br>
-├─ frontend/             # Next.js + Tailwind frontend<br>
+├─ frontend/               # Next.js + Tailwind frontend<br>
 │  ├─ pages/<br>
 │  ├─ components/<br>
 │  ├─ styles/<br>
@@ -101,13 +101,15 @@ ai-resume-analyzer/<br>
 
 
 ### 📜 License
-This project is MIT licensed. Feel free to use, modify, and contribute!
+- This project is MIT licensed. Feel free to use, modify, and contribute!
+
 
 Made by Akitha Chanupama
 
 
 
 ---
+
 
 
 
