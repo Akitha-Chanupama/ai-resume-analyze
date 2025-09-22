@@ -21,12 +21,7 @@ Built with **Next.js + Tailwind CSS** for a sleek frontend and **FastAPI** for a
 
 ---
 
-## 🎨 Screenshot
 
-![Light Mode](https://via.placeholder.com/800x400?text=Light+Mode+UI)
-![Dark Mode](https://via.placeholder.com/800x400?text=Dark+Mode+UI)
-
----
 
 ## 🏗 Tech Stack
 
@@ -105,10 +100,10 @@ ai-resume-analyzer/<br>
 └─ .gitignore<br>
 
 ### 🚀 Future Improvements
-Replace TF-IDF with sentence-transformers for semantic skill matching.
-Add user authentication (JWT) and store uploads in S3 / cloud storage.
-Deploy backend to Render / Cloud Run and frontend to Vercel.
-Add real-time resume parsing & feedback with progress animations.
+- Replace TF-IDF with sentence-transformers for semantic skill matching.
+- Add user authentication (JWT) and store uploads in S3 / cloud storage.
+- Deploy backend to Render / Cloud Run and frontend to Vercel.
+- Add real-time resume parsing & feedback with progress animations.
 
 
 ### 📜 License
@@ -119,5 +114,6 @@ Made by Akitha Chanupama
 
 
 ---
+
 
 
