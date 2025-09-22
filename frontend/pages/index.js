@@ -40,7 +40,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="md:col-span-2">
             <div className="card">
-              <h1 className="text-2xl font-bold mb-2">Upload your resume</h1>
+              <h1 className="text-2xl font-bold mb-2">Upload your resume(pdf or Docx)</h1>
               <p className="text-sm text-slate-600 dark:text-slate-300 mb-4">Get instant ATS-style feedback and suggested improvements.</p>
 
               <div
