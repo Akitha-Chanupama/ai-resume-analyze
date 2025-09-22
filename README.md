@@ -53,18 +53,18 @@ Frontend: http://localhost:3000
 Backend API Docs: http://localhost:8000/docs
 
 ### 3. Run in Dev Mode (optional)
-Backend
-- cd backend
-- python -m venv venv
-- source venv/bin/activate   # Windows: venv\Scripts\activate
-- pip install -r requirements.txt
-- uvicorn app.main:app --reload --port 8000
-<br>
-Frontend
-- cd frontend
-- npm install
-- npm run dev
-➡ http://localhost:3000
+- Backend
+  - cd backend
+  - python -m venv venv
+  - source venv/bin/activate   # Windows: venv\Scripts\activate
+  - pip install -r requirements.txt
+  - uvicorn app.main:app --reload --port 8000
+
+- Frontend
+  - cd frontend
+  - npm install
+  - npm run dev
+  ➡ http://localhost:3000
 
 ### 🛠 Usage
 Open the web app in your browser.
@@ -93,24 +93,21 @@ ai-resume-analyzer/<br>
 │  ├─ app/<br>
 │  │  ├─ main.py<br>
 │  │  ├─ model.py<br>
-│  │  └─ utils.py
-│  └─ Dockerfile
-├─ frontend/             # Next.js + Tailwind frontend
-│  ├─ pages/
-│  ├─ components/
-│  ├─ styles/
-│  └─ Dockerfile
-├─ docker-compose.yml
-├─ README.md
-└─ .gitignore
+│  │  └─ utils.py<br>
+│  └─ Dockerfile<br>
+├─ frontend/             # Next.js + Tailwind frontend<br>
+│  ├─ pages/<br>
+│  ├─ components/<br>
+│  ├─ styles/<br>
+│  └─ Dockerfile<br>
+├─ docker-compose.yml<br>
+├─ README.md<br>
+└─ .gitignore<br>
 
 ### 🚀 Future Improvements
 Replace TF-IDF with sentence-transformers for semantic skill matching.
-
 Add user authentication (JWT) and store uploads in S3 / cloud storage.
-
 Deploy backend to Render / Cloud Run and frontend to Vercel.
-
 Add real-time resume parsing & feedback with progress animations.
 
 
@@ -122,4 +119,5 @@ Made by Akitha Chanupama
 
 
 ---
+
 
