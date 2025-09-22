@@ -59,8 +59,8 @@ Backend
 - source venv/bin/activate   # Windows: venv\Scripts\activate
 - pip install -r requirements.txt
 - uvicorn app.main:app --reload --port 8000
+<br>
 Frontend
-
 - cd frontend
 - npm install
 - npm run dev
@@ -88,11 +88,11 @@ Toggle between light & dark mode with the navbar button.
 ### 📦 Project Structure
  
 
-ai-resume-analyzer/
-├─ backend/              # FastAPI backend
-│  ├─ app/
-│  │  ├─ main.py
-│  │  ├─ model.py
+ai-resume-analyzer/<br>
+├─ backend/              # FastAPI backend<br>
+│  ├─ app/<br>
+│  │  ├─ main.py<br>
+│  │  ├─ model.py<br>
 │  │  └─ utils.py
 │  └─ Dockerfile
 ├─ frontend/             # Next.js + Tailwind frontend
@@ -122,3 +122,4 @@ Made by Akitha Chanupama
 
 
 ---
+
