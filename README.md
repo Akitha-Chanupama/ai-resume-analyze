@@ -38,7 +38,7 @@ Built with **Next.js + Tailwind CSS** for a sleek frontend and **FastAPI** for a
 ## ⚡ Quick Start
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git<br>
 cd ai-resume-analyzer
 
 ### 2. Run with Docker (recommended)
@@ -108,6 +108,7 @@ Made by Akitha Chanupama
 
 
 ---
+
 
 
 
