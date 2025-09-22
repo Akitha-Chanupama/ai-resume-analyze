@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+pdfminer.six
+scikit-learn
+transformers
+torch
+pytest
+pydantic

@@ -1,0 +1,1 @@
+We are seeking a Software Engineer experienced in Python, FastAPI, REST APIs, Docker, AWS, and PostgreSQL. The candidate must be familiar with unit testing, CI/CD, and containerized deployments.
