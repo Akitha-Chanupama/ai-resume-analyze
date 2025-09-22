@@ -62,23 +62,17 @@ Backend API Docs: http://localhost:8000/docs
   ➡ http://localhost:3000
 
 ### 🛠 Usage
-Open the web app in your browser.
 
-Drag & drop or select a PDF resume.
-
-Optionally, enter a job description.
-
-Click Analyze Resume.
+- Open the web app in your browser.
+- Drag & drop or select a PDF resume.
+- Optionally, enter a job description.
+- Click Analyze Resume.
 
 View:
-
-Score (0–100)
-
-Matched / Missing Skills
-
-Advice for improvement
-
-Toggle between light & dark mode with the navbar button.
+- Score (0–100)
+- Matched / Missing Skills
+- Advice for improvement
+- Toggle between light & dark mode with the navbar button.
 
 ### 📦 Project Structure
  
@@ -114,6 +108,7 @@ Made by Akitha Chanupama
 
 
 ---
+
 
 
 
